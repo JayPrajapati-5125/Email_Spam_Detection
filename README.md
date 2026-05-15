@@ -1,6 +1,6 @@
 # Email Spam Detection
 
-This project is an NLP-based Machine Learning model that classifies emails/messages as Spam or Not Spam (Ham).
+This project is an NLP-based Machine Learning model that classifies emails as Spam or Not Spam (Ham).
 
 ## Project Overview
 
